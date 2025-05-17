@@ -1,4 +1,4 @@
 # demo
 Demo repository
 <br>
-Author- Samay Kharidia
+Author- Samay Kharidia (demo)
